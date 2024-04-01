@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+header img {
+    max-width: 250px;
+}
+
+.title {
+    display: flex;
+    color: white;
+    justify-content: center;
+}
+
+.list-weather{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list-weather li {
+    list-style: none;
+}
+
+.list-weather li a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #FFD33E;
+    color: rgb(2, 0, 36);
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+
+.list-weather li a:hover {
+    background-color: #ffdf00;
+}
