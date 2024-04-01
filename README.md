@@ -3,6 +3,8 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ![image](https://github.com/Danicode0210/weather-app/assets/65778274/52c61b1e-f597-4180-b9ed-9676105ecbe9)
+![image](https://github.com/Danicode0210/weather-app/assets/65778274/b59f32e9-8876-4b37-aa92-be702853e155)
+
 ![image](https://github.com/Danicode0210/weather-app/assets/65778274/f32c0fca-fbed-4f65-a7d1-8a2ec94275c0)
 
 
